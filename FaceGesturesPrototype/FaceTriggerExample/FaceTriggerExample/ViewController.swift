@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  FaceTriggerExample
 //
-//  Created by Mike Peterson on 12/26/17.
-//  Copyright © 2017 Blinkloop. All rights reserved.
+//  Created by Shawn Polson on 4/15/18.
+//  Copyright © 2018 Sapols. All rights reserved.
 //
 
 import UIKit
