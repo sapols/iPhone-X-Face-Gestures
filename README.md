@@ -8,6 +8,7 @@ The novelty in this app is the interface that the face gestures control. It's a 
 
 All source code files for the app are contained in the `FaceGesturesPrototype` folder.
 Within that folder is an MIT license (because this code is open source), a podspec file for FaceTrigger, and three other folders:  `FaceGesturesPrototype.xcworkspace`, `FaceTrigger`, and `FaceTriggerExample`. 
+
 `FaceGesturesPrototype.xcworkspace` is the Xcode workspace of this project. To run this code on an iPhone X, all one really needs to do is clone this repo onto their local machine and then double click `FaceGesturesPrototype.xcworkspace`. That should open Xcode, allowing the app to be run. 
 
 The `FaceTrigger` folder contains source code files for FaceTrigger. 
