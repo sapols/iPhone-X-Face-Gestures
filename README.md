@@ -3,8 +3,8 @@ The goal of this project was to prototype an app that controls an iPhone X with 
 
 The novelty in this app is the interface that the face gestures control. It's a simple app with only two tabs; one tab is a "busy box" of UI elements that are controlled by face gestures, and the other tab allows users to pick which gestures control which elements.
 
-![Demo Still 2](https://github.com/sapols/iPhone-X-Face-Gestures/blob/master/images/FaceGesturesAppSelections.PNG)
-![Demo Still 1](https://github.com/sapols/iPhone-X-Face-Gestures/blob/master/images/FaceGesturesAppBusyBox.PNG)
+![Demo Still 1](https://github.com/sapols/iPhone-X-Face-Gestures/blob/master/images/FaceGesturesAppSelections.PNG)
+![Demo Still 2](https://github.com/sapols/iPhone-X-Face-Gestures/blob/master/images/FaceGesturesAppBusyBox.PNG)
 
 All source code files for the app are contained in the `FaceGesturesPrototype` folder.
 Within that folder is an MIT license (because this code is open source), a podspec file for FaceTrigger, and three other folders:  `FaceGesturesPrototype.xcworkspace`, `FaceTrigger`, and `FaceTriggerExample`. 
