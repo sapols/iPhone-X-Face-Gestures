@@ -5,7 +5,7 @@ The goal of this project was to prototype an app that controls an iPhone X with 
 The novelty in this app is the interface that the face gestures control. It's a simple app with only two tabs; one tab is a "busy box" of UI elements that are controlled by face gestures, and the other tab allows users to pick which gestures control which elements.
 
 ## Video demo:
-https://youtu.be/riwLR5vyoZk
+https://youtu.be/AZhhHOCXMTM
 
 ![Demo Still 1](https://github.com/sapols/iPhone-X-Face-Gestures/blob/master/images/FaceGesturesAppSelections.PNG)
 ![Demo Still 2](https://github.com/sapols/iPhone-X-Face-Gestures/blob/master/images/FaceGesturesAppBusyBox.PNG)
